@@ -1,3 +1,9 @@
+## [1.0.2-dev.1](https://github.com/Saurabh825/morphe-patches/compare/v1.0.1...v1.0.2-dev.1) (2026-11-13)
+
+### 🚀 Updated App Support
+
+* **BlaBlaCar:** Add support for `6.38.0` ([996b1c6](https://github.com/Saurabh825/morphe-patches/commit/996b1c674ec3ffde8ac3aa2c8793b7fb93271fd1))
+
 ## [1.0.1](https://github.com/Saurabh825/morphe-patches/compare/v1.0.0...v1.0.1) (2026-11-03)
 
 ### 🚀 Updated App Support
